@@ -2,3 +2,11 @@ flask
 flask-socketio
 fuzzywuzzy
 python-Levenshtein
+openai 
+faiss-cpu 
+numpy 
+PyPDF2
+python-dotenv
+nltk 
+rapidfuzz
+flask-cors
